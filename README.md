@@ -1,5 +1,7 @@
 # sharedWalllet
+
 DApp's Domain - https://shared-wallet.netlify.app/
+
 Smart Contract - https://sepolia.etherscan.io/address/0xc25b27d5dddff09362d6e806d0110bc943179669#code
 
 The name of the project is sharedWallet. according to which, the admin will pass address and amount as parameters in his function. address - is the address of the money sharer, and amount - how much to spend. After the participant receives the permission, he can transfer this crypto to someone else.
